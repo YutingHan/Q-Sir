@@ -3,11 +3,13 @@ Weblink: https://yutinghan.github.io/Q-Sir/
 
 Video: [Presentation](Q-Sir/Presentation.mp4)
 
+
 ## Project Overview
 
 Q-SIR is a Question answering Service Improvement and Redesign project that provides a tool to answer questions using Artificial Intelligence to achieve human-level accuracy in rapid progress. According to the comprehensive dataset we choose, SQuAD, Q-SIR could answer most of the questions in diverse fields, and we could see it as an advanced automatic encyclopedic. 
 Based on its powerful functions, it not only could be set as a chatbot in social media but also could be embedded in existing domestic robots, contributing to smart living home. 
 In this project, in order to do some research, we compare the results of two models, which are BERT and XLNET.
+
 
 ## Dataset Description
 
@@ -35,17 +37,19 @@ XLNet is an automatic regression language model based on recursive converter arc
 
 ![XLNet](/media/XLNet.png)
 
+
 Dependency
 ------
 ```shell
 pip install 'tensorflow-gpu >= 1.11.0'
 ```
 
+
 Model Result
 ------
 - [BERT](model_result/BERT_result.json)
-
 - [XLNet](model_result/XLNet_result.json)
+
 
 Reference
 ------
