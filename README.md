@@ -45,7 +45,7 @@ pip install 'tensorflow-gpu >= 1.11.0'
 ```
 
 
-Procedure
+Running Instruction
 ------
 ```shell
 python run_squad.py \
