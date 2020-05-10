@@ -43,9 +43,9 @@ pip install 'tensorflow-gpu >= 1.11.0'
 
 Model result
 ------
-[BERT](modelResult/BERT result.json)
+[BERT](model_result/BERT_result.json)
 
-[XLNet](modelResult/XLNet result.json)
+[XLNet](model_result/XLNet_result.json)
 
 Reference
 ------
