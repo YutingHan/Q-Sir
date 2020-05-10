@@ -1,6 +1,5 @@
 # Q-Sir
 Weblink: https://yutinghan.github.io/Q-Sir/
-
 Video: [Presentation](Q-Sir/Presentation.mp4)
 
 
