@@ -6,11 +6,11 @@ Weblink: https://yutinghan.github.io/Q-Sir/
 Video: Q-Sir/Presentation.mp4
 
 HomePage:
-![HomePage](/png/homePage.png)
+![HomePage](/media/homePage.png)
 ------
 
 ResultPge: 
-![ResultPage](/png/resultPage.gif)
+![ResultPage](/media/resultPage.gif)
 ------
 
 Model: 
