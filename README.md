@@ -35,14 +35,14 @@ XLNet is an automatic regression language model based on recursive converter arc
 
 ![XLNet](/media/XLNet.png)
 
-Technical Achievements
+Dependency
 ------
-- 1
-- 2
+```shell
+pip install 'tensorflow-gpu >= 1.11.0'
+```
 
 
-Design Achievements
+Reference
 ------
-- 1
-- 2
-
+- https://github.com/google-research/bert
+- https://github.com/zihangdai/xlnet
