@@ -3,14 +3,14 @@ Q-Sir
 
 Weblink: https://yutinghan.github.io/Q-Sir/
 
-PPT Location: Q-Sir/Presentation.pdf
+Video: Q-Sir/Presentation.mp4
 
 HomePage:
-![HomePage](/png/1.gif)
+![HomePage](/png/homePage.png)
 ------
 
 ResultPge: 
-![ResultPage](/png/2.gif)
+![ResultPage](/png/resultPage.gif)
 ------
 
 Model: 
