@@ -1,7 +1,7 @@
 # Q-Sir
 Weblink: https://yutinghan.github.io/Q-Sir/
 
-Video: Q-Sir/Presentation.mp4
+Video: [Presentation](Q-Sir/Presentation.mp4)
 
 ## Project Overview
 
@@ -41,8 +41,14 @@ Dependency
 pip install 'tensorflow-gpu >= 1.11.0'
 ```
 
+Model result
+------
+[BERT](modelResult/BERT result.json)
+
+[XLNet](modelResult/XLNet result.json)
 
 Reference
 ------
-- https://github.com/google-research/bert
-- https://github.com/zihangdai/xlnet
+- Data: https://rajpurkar.github.io/SQuAD-explorer/
+- Model - Bert: https://github.com/google-research/bert
+- Model - XLNet: https://github.com/zihangdai/xlnet
