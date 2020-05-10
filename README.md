@@ -41,11 +41,11 @@ Dependency
 pip install 'tensorflow-gpu >= 1.11.0'
 ```
 
-Model result
+Model Result
 ------
-[BERT](model_result/BERT_result.json)
+- [BERT](model_result/BERT_result.json)
 
-[XLNet](model_result/XLNet_result.json)
+- [XLNet](model_result/XLNet_result.json)
 
 Reference
 ------
