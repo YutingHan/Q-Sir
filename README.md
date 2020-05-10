@@ -61,10 +61,8 @@ python run_squad.py \
   --num_train_epochs=2.0 \
   --max_seq_length=384 \
   --doc_stride=128 \
-  --output_dir=gs://some_bucket/squad_large/ \
-  --use_tpu=True \
-  --tpu_name=$TPU_NAME \
   --version_2_with_negative=True
+  --output_dir=gs://some_bucket/squad_large/ \
 ```
 
 
